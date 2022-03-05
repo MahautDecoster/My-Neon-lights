@@ -1,0 +1,28 @@
+.card {
+	background-color: #CFDCD7;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	padding: 40px;
+	margin: 30px;
+	border-radius: 5px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.card .photos {
+	width: 300ox;
+	height: 300px;
+	border-radius: 0%;
+}
+
+h2 {
+	padding: 30px;
+}
+
+.card h2 {
+	font-size: 30px;
+}
+
+.card {
+
+}

@@ -1,0 +1,20 @@
+.banner {
+	background-image: url("../../image/figurine.jpg") ;
+	color: #88A3AA;
+	padding: 60px 0px;
+	background-size: cover;
+	background-position: center;
+	align-items: center;
+}
+
+.banner h1 {
+	font-size: 70px;
+	margin-top: 500px;
+	font-weight: bolder;
+}
+
+.banner h2 {
+	font-size: 45px;
+	opacity: 0,6;
+	font-weight: lighter;
+}
